@@ -7,7 +7,7 @@ This is a tutorial to use Gemini Pro and Gemini Pro Vision API from Google.
 Using your google account got to [Google AI Studio website](https://makersuite.google.com/app/prompts/new_freeform). 
 
 From there select the API Key menu and Click the "Create API key in new project"
-![google_ai](image/google_ai_studio.jpeg)
+![google_ai](asset/google_ai_studio.jpeg)
 
 Just for your information the free tier will let us do **60 queries per minute**.
 
@@ -19,9 +19,9 @@ Using the code from gemeni_api.py
 with the prompt of **"Create a 4 lines poem about AI",**, It can generate an answer like the poem below:
 
 > In the realm of code, a mind takes birth,
-Artificial yet wise, a marvel of earth.
-Its logic unfurls, thoughts etched in its core,
-A future unknown, yet dreams it galore.
+> Artificial yet wise, a marvel of earth.
+> Its logic unfurls, thoughts etched in its core,
+> A future unknown, yet dreams it galore.
 
 Just like the other text generation tools, we can modify the prompt and use it like what we wanted such as paraphrase a paragraph, creating social media caption, etc.
 
