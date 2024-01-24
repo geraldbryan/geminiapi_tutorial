@@ -29,6 +29,7 @@ Just like the other text generation tools, we can modify the prompt and use it l
 Gemini Pro model is not only used for the text generation only, but it could perform an image recognition task which will be suitable for more use cases in terms of copy writing. In the gemini_pro_api.py script, we will try to make a blog post or marketing copy writing based on an image.
 
 From this image
+<br>
 ![coffee_shop](asset/images.jpeg)
 
 and using this prompt: **"Write a short, engaging blog post based on this picture. It should popularize the places in the photo and make it engaging."**
@@ -37,7 +38,7 @@ It result in this blog post
 
 > **Sẽmasa Coffee Shop**
 
-Sẽmasa Coffee Shop is a great place to relax and enjoy a cup of coffee. The shop is located in a quiet neighborhood, and the atmosphere is very chill. The staff is friendly and welcoming, and they make some of the best coffee in town.
+> Sẽmasa Coffee Shop is a great place to relax and enjoy a cup of coffee. The shop is located in a quiet neighborhood, and the atmosphere is very chill. The staff is friendly and welcoming, and they make some of the best coffee in town.
 
 In addition to coffee, Sẽmasa also serves a variety of pastries and snacks. The pastries are all made fresh in-house, and they are delicious. The snacks are also great, and they are perfect for a quick bite to eat.
 
