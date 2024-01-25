@@ -9,7 +9,7 @@ load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Load Picture
-img = PIL.Image.open('llm/geminipro_api/asset/images.jpeg')
+img = PIL.Image.open('llm/geminiapi_tutorial/asset/images.jpeg')
 
 # Call the model
 model = genai.GenerativeModel('gemini-pro-vision')
